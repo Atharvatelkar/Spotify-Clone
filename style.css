@@ -294,7 +294,7 @@ a{
     margin-right: 20px;
     height: 4px;
 }
-@media(max-width:400px){
+@media(max-width:500px){
    .sidebar,.album,.control{
     display: none;
    }
